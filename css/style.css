@@ -63,7 +63,7 @@ body {
 }
 .island-popup.active {
   width: 250px;
-  height: 60px;
+  height: 120px;
 }
 .island-popup.active .island-image {
   display: none;
